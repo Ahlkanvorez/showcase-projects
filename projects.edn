@@ -1,6 +1,6 @@
 [{:name "Cellular Automata Simulations"
   :description "Conway's Game of Life, and Day & Night, with configurable live examples. Written in ClojureScript, using Quil for graphics, and Re-Frame, Reagent, & ReactJS for the UI. Deployed on AWS S3 with CloudFront."
-  :live-demo "https://cellular-automata.robertm.io/"
+  :demo-url "https://cellular-automata.robertm.io/"
   :img "https://robertm-project-images.s3.amazonaws.com/gosper-gun.png"}
  {:name "Service B"
   :description "Eye-catching sentence on service B"
