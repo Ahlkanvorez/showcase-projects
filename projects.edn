@@ -2,15 +2,7 @@
   :description "Conway's Game of Life, and Day & Night, with configurable live examples. Written in ClojureScript, using Quil for graphics, and Re-Frame, Reagent, & ReactJS for the UI. Deployed on AWS S3 with CloudFront."
   :demo-url "https://cellular-automata.robertm.io/"
   :img "https://robertm-project-images.s3.amazonaws.com/gosper-gun.png"}
- {:name "Service B"
-  :description "Eye-catching sentence on service B"
-  :img "https://www.wolfram.com/language/12/plane-geometry/assets.en/featuredimage.png.en"}
- {:name "Web App C"
-  :description "Lots of memorable cliches for Web App C"
-  :img "https://www.thoughtco.com/thmb/d-9JB9xZBDWOKnyshPSr8r2G6PQ=/1808x1808/smart/filters:no_upscale()/ancient-greek-inscription-in-celcus-library-185406698-20b0d4dd6113472c8f70aa43800a8817.jpg"}
- {:name "Fancy Codebase D"
-  :description "Even more text, probably too much, but oh well; there needs to be at least one example of a sentence with non-trivial length in order to get a feel for styling."
-  :img "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphi%2C_Greece_-_panoramio.jpg/1200px-Delphi%2C_Greece_-_panoramio.jpg"}
- {:name "Library E"
-  :description "Just to see what a row looks like with only one column."
-  :img "https://miro.medium.com/max/3840/1*62WJpBzEdlsjlc2TtjFf3g.jpeg"}]
+ {:name "Personal Showcase"
+  :description "Select apps & services I've written, with links to live demos or source code, and a collection of short blog articles. Written in Clojure, using Bootstrap for styling, Ring & Compojure for the webserver, and EDN for project & blog entries. Deployed on Heroku."
+  :demo-url "https://robertm.io"
+  :img "https://www.wolfram.com/language/12/plane-geometry/assets.en/featuredimage.png.en"}]
