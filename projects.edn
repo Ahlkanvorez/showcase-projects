@@ -4,7 +4,7 @@
   :img "https://robertm-project-images.s3.amazonaws.com/gosper-gun.png"
   :technologies {:Languages [:ClojureScript]
                  :Frameworks [:Re-Frame :Reagent :ReactJS :Bootstrap]
-                 :Misc [:Git :AWS :S3 :CloudFront]}}
+                 :Misc [:Git :AWS]}}
  {:name "Personal Showcase"
   :description "Select apps & services I've written, with links to live demos or source code, and a collection of short blog articles. Written in Clojure, using Bootstrap for styling, Ring & Compojure for the webserver, and EDN for project & blog entries. Deployed on Heroku."
   :demo-url "https://robertm.io"
