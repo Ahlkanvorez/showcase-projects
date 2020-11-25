@@ -1,8 +1,10 @@
 [{:name "Cellular Automata Simulations"
   :description "Conway's Game of Life, and Day & Night, with configurable live examples. Written in ClojureScript, using Quil for graphics, and Re-Frame, Reagent, & ReactJS for the UI. Deployed on AWS S3 with CloudFront."
   :demo-url "https://cellular-automata.robertm.io/"
-  :img "https://robertm-project-images.s3.amazonaws.com/gosper-gun.png"}
+  :img "https://robertm-project-images.s3.amazonaws.com/gosper-gun.png"
+  :technologies [:ClojureScript :AWS :S3 :CloudFront :Re-Frame :Reagent :ReactJS :Bootstrap]}
  {:name "Personal Showcase"
   :description "Select apps & services I've written, with links to live demos or source code, and a collection of short blog articles. Written in Clojure, using Bootstrap for styling, Ring & Compojure for the webserver, and EDN for project & blog entries. Deployed on Heroku."
   :demo-url "https://robertm.io"
-  :img "https://robertm-project-images.s3.amazonaws.com/blog-routes.png"}]
+  :img "https://robertm-project-images.s3.amazonaws.com/blog-routes.png"
+  :technologies [:Clojure :Heroku :Bootstrap]}]
