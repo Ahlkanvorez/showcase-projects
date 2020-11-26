@@ -1,0 +1,16 @@
+[{:company "ION Geophysical"
+  :roles [{:title "Senior Software Engineer"
+           :dates "June 2020 - Present"}
+          {:title "Software Engineer"
+           :dates "August 2017 - May 2020"}]
+  :description
+  [:div
+   [:p
+    "I've improved workflows on multiple teams by applying Agile & DevOps principles to help modernize apps & systems, "
+    "and by using Ansible, Docker, and Python to automate deployments on-premises & in public clouds."]
+   [:p
+    "In response to feedback from Geophysicists, I've used Test-Driven-Development to create helpful apps & services, "
+    "with technologies such as Erlang, NodeJS, ReactJS, C++, Qt, RabbitMQ, and Neo4j."]
+   [:p
+    "I've championed a spirit of continual learning by spending several weeks teaching my teammates Erlang, "
+    "and starting regular meetings in multiple teams to share interesting things we've learned."]]}]
