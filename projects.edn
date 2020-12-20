@@ -1,6 +1,13 @@
-[{:name "Cellular Automata Simulations"
+[{:name "7 GUIs"
+  :description "Seven GUIs ranging from a flight booker to a functioning spreadsheet. Written in ClojureScript using only Reagent. Deployed on AWS S3 with CloudFront."
+  :demo-url "https://7gui-cells.robertm.io"
+  :img "https://robertm-project-images.s3.amazonaws.com/7guis_cells.png"
+  :technologies {:Languages [:ClojureScript]
+                 :Frameworks [:Reagent]
+                 :Misc [:Git :AWS]}}
+ {:name "Cellular Automata Simulations"
   :description "Conway's Game of Life, and Day & Night, with configurable live examples. Written in ClojureScript, using Quil for graphics, and Re-Frame, Reagent, & ReactJS for the UI. Deployed on AWS S3 with CloudFront."
-  :demo-url "https://cellular-automata.robertm.io/"
+  :demo-url "https://cellular-automata.robertm.io"
   :img "https://robertm-project-images.s3.amazonaws.com/gosper-gun.png"
   :technologies {:Languages [:ClojureScript]
                  :Frameworks [:Re-Frame :Reagent :ReactJS :Bootstrap]
