@@ -3,7 +3,7 @@
   :demo-url "https://roam-parser.robertm.io"
   :img "https://robertm-project-images.s3.amazonaws.com/roam-parse-tree.png"
   :technologies {:Languages [:ClojureScript]
-                 :Frameworks [:Reagent]
+                 :Frameworks [:Reagent :Bootstrap]
                  :Misc [:Git :AWS]}}
  {:name "7 GUIs"
   :description "Seven GUIs ranging from a flight booker to a functioning spreadsheet. Written in ClojureScript using only Reagent. Deployed on AWS S3 with CloudFront."
