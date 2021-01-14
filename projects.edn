@@ -1,4 +1,11 @@
-[{:name "7 GUIs"
+[{:name "Roam Parser"
+  :description "A parser for Roam-inspired markup written in ClojureScript, with a Reagent demo, and an evaluator example using MathJS."
+  :demo-url "https://roam-parser.robertm.io"
+  :img "https://robertm-project-images.s3.amazonaws.com/roam-parse-tree.png"
+  :technologies {:Languages [:ClojureScript]
+                 :Frameworks [:Reagent :Bootstrap]
+                 :Misc [:Git :AWS]}}
+ {:name "7 GUIs"
   :description "Seven GUIs ranging from a flight booker to a functioning spreadsheet. Written in ClojureScript using only Reagent. Deployed on AWS S3 with CloudFront."
   :demo-url "https://7gui-cells.robertm.io"
   :img "https://robertm-project-images.s3.amazonaws.com/7guis_cells.png"
