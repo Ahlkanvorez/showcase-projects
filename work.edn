@@ -1,16 +1,24 @@
-[{:company "ION Geophysical"
+[{:company "Composer"
+  :roles [{:title "Lead Backend Engineer"
+           :dates "February 2021 - Present"}]
+  :description
+  [:div
+   [:p
+    "I'm using Clojure to build next-gen no-code automated investing tools that make it easy to build, backtest & "
+    "compare even complex investing strategies."]]}
+ {:company "ION Geophysical"
   :roles [{:title "Senior Software Engineer"
-           :dates "June 2020 - Present"}
+           :dates "June 2020 - February 2021"}
           {:title "Software Engineer"
            :dates "August 2017 - May 2020"}]
   :description
   [:div
    [:p
-    "I've improved workflows on multiple teams by applying Agile & DevOps principles to help modernize apps & systems, "
+    "I improved workflows on multiple teams by applying Agile & DevOps principles to help modernize apps & systems, "
     "and by using Ansible, Docker, and Python to automate deployments on-premises & in public clouds."]
    [:p
-    "In response to feedback from Geophysicists, I've used Test-Driven-Development to create helpful apps & services, "
+    "In response to feedback from Geophysicists, I used Test-Driven-Development to create helpful apps & services, "
     "with technologies such as Erlang, NodeJS, ReactJS, C++, Qt, RabbitMQ, and Neo4j."]
    [:p
-    "I've championed a spirit of continual learning by spending several weeks teaching my teammates Erlang, "
+    "I championed a spirit of continual learning by spending several weeks teaching my teammates Erlang, "
     "and starting regular meetings in multiple teams to share interesting things we've learned."]]}]
